@@ -1,0 +1,61 @@
+body {
+    background-color:#1d314e;
+}
+
+p {
+    font-family:"Cormorant", serif;
+    margin: 50px;
+    color:#F2D0A4
+}
+
+#biography {
+    text-align: center;
+    color: navajowhite;
+}
+a { 
+    font-size:20px;
+    color:#e09c37;
+
+}
+#title {
+    text-align: center;
+    color: #956927;
+    font-size:50px;
+    font-family: "Cormorant", serif;
+    margin-bottom: 25px;
+    
+}
+#lowertitle {
+    text-align: center;
+    color: #956927;
+    font-size:25px;
+    font-family: "Cormorant", serif;
+    margin-top:25px;
+    
+}
+
+#titlediv {
+    padding: 1px;
+    margin: 25px;
+    background-color: #F2D0A4;
+    border: medium solid #956927;
+  }
+
+#biographydiv {
+    margin-left: 600px;
+    margin-right: 50px;
+    background-color: #594d3b;
+    padding: 1px;
+}
+#marg {
+    margin: 25px;
+}
+#imagediv {
+    margin:25px;
+    height: 0.5px;
+    width: 454.5px;
+
+}
+a.blue {
+    color: aqua;
+}

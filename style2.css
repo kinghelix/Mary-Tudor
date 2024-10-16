@@ -1,0 +1,117 @@
+
+
+
+body {
+    background-color:#1f0800;
+}
+
+#marg {
+    margin-left: 400px;
+    margin-right: 400px;
+}
+#margin {
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+
+#bumper {
+    height: 400px;
+    width: 1600px;
+}
+
+#pmain {
+    text-align:center;
+    color:#621c20;
+    margin-top: 50px;
+    font-family:"Bona Nova SC", serif;
+
+
+}
+
+
+a {
+    text-decoration: none;
+    color:#621c20;
+}
+p {
+    text-align:center;
+    color:black;
+    margin-top: 50px;
+}
+
+#pnochoice {
+    text-align:left;
+    color:#621c20;
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+#pdiff {
+    text-align: right;
+    color:#956927;
+    margin-right: 50px;
+}
+
+#divmain {
+    margin-left: 25px;
+    margin-right: 1250px;
+    background-color:#956927
+
+}
+
+#div2 {
+margin:15px;
+
+}
+
+#center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  #center2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #center3 {
+    display: block;
+    margin-top: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    mix-blend-mode:hue;
+  }
+  .header {
+    position: fixed;
+    left: 0;
+    top: 50px;
+    width: 100%;
+    text-align: center;
+
+}
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 300px;
+    width: 100%;
+    text-align: center;
+}
+.mooter {
+    position: fixed;
+    left: 0;
+    bottom: 300px;
+    top: 300px;
+    width: 100%;
+    text-align: center;
+}
+
+
+a.gray:hover {
+    color:darkgray;
+}
+
+p.red:hover {
+    color:#621c20;
+}
